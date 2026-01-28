@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-A simple, interactive Tic Tac Toe game built with HTML, CSS and Javascript
+A simple, interactive Tic Tac Toe game built with HTML  , CSS and Javascript
 
 ## How to play
 1. Open 'index.html' in your browser.
